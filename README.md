@@ -24,8 +24,9 @@ In order to complete the above challenge the following deliverables will be met:
  
  mpg = (6.267)vehicle_length + (0.0012)vehicle_weight + (0.0688)spoiler_angle + (3.546)ground_clearance + (-3.411)AWD + (-104.0)
  
-
-
+  * The variables/coefficients that provide a non-random amount of variance to the mpg values in the dataset are: vehicle length and vehicle ground clearance. This means the vehicle length and vehicle ground clearance have a significant impact on mpg for MechaCar prototype 
+  * Because the p-value is 5.35e-11 (and smaller than the assumed level of 0.05%) there is sufficient evidence to reject the null hypothesis meaning the slope of the linear model is not 0
+  * Because the r-square value is 0.7140 it means that approximately 71% of all mpg predictions will correctly determined by this regression analysis and so it is an effective model to predict prototypes
 
 # Deliverable 2:
 
