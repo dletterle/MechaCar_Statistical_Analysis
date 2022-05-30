@@ -20,8 +20,12 @@ In order to complete the above challenge the following deliverables will be met:
 
 <img width="389" alt="Linear Regression to Predict MPG" src="https://user-images.githubusercontent.com/99268646/171061713-4d66971f-e8d2-47c0-b535-3eb4e5de064a.png">
 
- _Summary_
+**Statistical Summary**
  
  mpg = (6.267)vehicle_length + (0.0012)vehicle_weight + (0.0688)spoiler_angle + (3.546)ground_clearance + (-3.411)AWD + (-104.0)
  
+
+
+
+# Deliverable 2:
 
