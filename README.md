@@ -14,3 +14,14 @@ In order to complete the above challenge the following deliverables will be met:
   * Deliverable 2: Summary Statistics on Suspension Coils
   * Deliverable 3: T-Test on Suspension Coils
   * Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+
+
+# Deliverable 1: Linear Regression to Predict MPG
+
+<img width="389" alt="Linear Regression to Predict MPG" src="https://user-images.githubusercontent.com/99268646/171061713-4d66971f-e8d2-47c0-b535-3eb4e5de064a.png">
+
+ _Summary_
+ 
+ mpg = (6.267)vehicle_length + (0.0012)vehicle_weight + (0.0688)spoiler_angle + (3.546)ground_clearance + (-3.411)AWD + (-104.0)
+ 
+
