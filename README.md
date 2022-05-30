@@ -42,5 +42,15 @@ At each lot individually, Lot 1 and Lot 2 are well within the 100 PSI variance r
 
 # Deliverale 3: t-Tests on Suspension Coils
 
+<img width="664" alt="T-Tests on Suspension Coils" src="https://user-images.githubusercontent.com/99268646/171064125-1aac5753-ac5d-40a5-8ea2-7669122caf20.png">
 
+The true mean of the sample is 1498.78 with a p-value of 0.06 which is higher than the standard significant level of acceptance of 0.05 so therefore we must accept the null hypothesis because there is not enough evidence to reject it. The mean of all three manufacturing lots is statistically similar to the population mean (1,500 pounds per square inch). 
 
+<img width="293" alt="T-Tests on Suspension Coils_lot" src="https://user-images.githubusercontent.com/99268646/171064976-fbb955c6-462a-489c-85b1-ae0a70b1cce0.png">
+
+Looking at the individual lots: 
+ * Lot 1: the sample mean is 1500 and the p-value is 1 which is more than the significance level 0.05 so we must accept the null hypothesis
+ * Lot 2: the sample mean is 1500.02 and the p-value is 0.61 which is more than the significance level 0.05 so again we must accept the null hypothesis 
+ * Lot 3: the sample mean is 14.96.14 and the p-value is 0.04 which is less than the significan level 0.05 so we can reject the null hypothesis 
+
+# Deliverable 4: Study Design: MechaCar vs Competition
