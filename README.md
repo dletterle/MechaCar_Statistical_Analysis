@@ -28,5 +28,19 @@ In order to complete the above challenge the following deliverables will be met:
   * Because the p-value is 5.35e-11 (and smaller than the assumed level of 0.05%) there is sufficient evidence to reject the null hypothesis meaning the slope of the linear model is not 0
   * Because the r-square value is 0.7140 it means that approximately 71% of all mpg predictions will correctly determined by this regression analysis and so it is an effective model to predict prototypes
 
-# Deliverable 2:
+# Deliverable 2: Summary Statistics on Suspension Coils
+
+<img width="335" alt="total_summary" src="https://user-images.githubusercontent.com/99268646/171063227-6f9ec13e-ec23-48b8-8ac5-39189614ba94.png">
+
+<img width="451" alt="lot_summary" src="https://user-images.githubusercontent.com/99268646/171063231-34a40890-9dd2-4238-8b61-56cb59b8d0d4.png">
+
+**Statistical Summary**
+
+Because the variance of the coils is 62.29 PSI and withing the 100 PSI variance requirement, the design specifications for the MechaCar suspension coils meet the design specifications in total.
+
+At each lot individually, Lot 1 and Lot 2 are well within the 100 PSI variance requirement at 0.98 PSI and 7.47 PSI. But Lot 3 has a variance of 170.29 PSI and does not meet the design specification. So the total variance would be much closer if Lot 3 did meet the correct specifications, and therefore should be reviewed further for better compliance. 
+
+# Deliverale 3: t-Tests on Suspension Coils
+
+
 
