@@ -54,3 +54,12 @@ Looking at the individual lots:
  * Lot 3: the sample mean is 14.96.14 and the p-value is 0.04 which is less than the significan level 0.05 so we can reject the null hypothesis 
 
 # Deliverable 4: Study Design: MechaCar vs Competition
+
+To conduct a statistical study that can quantify how the MechaCar performs against the competition, certain metrics need to be considered:  
+ * Fuel efficiency: MPG, horsepower, gasoline vs hybrid vs electric 
+ * Monetary values: price of the vehicle, re-sale opportunities, maintenance/upkeep 
+Hypothesis:
+ * Null Hypothesis - MechaCar is priced correctly based on its performance of key metrics and factors
+ * Alternate Hypothesis - MechaCar is not priced correctly based on its performance of key metrics and factors 
+I would use linear regression as statistical method to test the hypothesis because there are multiple metrics and factors to review and would also aid in reviewing the correlation between each variable and the greatest determinant of price  
+The data needed to run the statistical test would be divided into two categories and then ran in each separate category. So there would need to be a category for fuel efficiency and the following variables would need to be reviewed: MPG, horespower, gasoline vs hybrid vs electric; and a category regarding monetary variables including: price of the vehicle, re-sale price, and maintenance/upkeep on the vehicle on a yearly basis. 
